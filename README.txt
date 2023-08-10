@@ -59,4 +59,4 @@ FORGOTTEN █████
 		For the subject's name, the word "subject" (as in - theme, topic) in Danish.
 
 - Google Drive Link to File - 
-	https://drive.google.com/drive/u/1/folders/1qsEL9o4CXpCCQ4jntd1lU2IEFlQBmopw
+	https://drive.google.com/drive/folders/1qsEL9o4CXpCCQ4jntd1lU2IEFlQBmopw?usp=sharing
